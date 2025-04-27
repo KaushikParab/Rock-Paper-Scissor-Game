@@ -17,7 +17,6 @@
     width: 40vw;
     height: 100vh;
 }
-
 .options {
     box-sizing: border-box;
     border: 5px solid rgb(0, 2, 136);
@@ -62,6 +61,7 @@
     justify-content: center;
     align-items: center;
 }
+
 .result {
     height: 30vh;
     width: 40vw;
@@ -71,7 +71,6 @@
 }
 
 .result-count {
-    /* background-color: rgba(184, 135, 11, 0.295); */
     height: 15vh;
     width: 20vw;
     display: flex;
