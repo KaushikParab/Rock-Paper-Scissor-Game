@@ -35,7 +35,7 @@ This project is built using **HTML**, **CSS**, and **JavaScript** with a focus o
 
 | Game Start | During Play |
 |:----------:|:-----------:|
-| ![Start](link_to_start_image) | ![Play](link_to_play_image) |
+| ![Start]([link_to_start_image](https://github.com/KaushikParab/Rock-Paper-Scissor-Game/blob/main/OUTPUT/Rock%20Paper%20&%20Scissors%20Game%20-%20Google%20Chrome%2028-04-2025%2011_19_25.png?raw=true)) | ![Play]([link_to_play_image](https://github.com/KaushikParab/Rock-Paper-Scissor-Game/blob/main/OUTPUT/Rock%20Paper%20&%20Scissors%20Game%20-%20Google%20Chrome%2028-04-2025%2011_19_45.png?raw=true)) |
 
 *(You can upload your screenshots in GitHub and replace `link_to_start_image` and `link_to_play_image`.)*
 
