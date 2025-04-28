@@ -37,7 +37,6 @@ This project is built using **HTML**, **CSS**, and **JavaScript** with a focus o
 |:----------:|:-----------:|
 | ![image alt](https://github.com/KaushikParab/Rock-Paper-Scissor-Game/blob/94cc2624d71cd10ff0797e1213b5705a9d2a2d55/OUTPUT/Rock%20Paper%20%26%20Scissors%20Game%20-%20Google%20Chrome%2028-04-2025%2011_19_25.png) | ![Play](https://github.com/KaushikParab/Rock-Paper-Scissor-Game/blob/main/OUTPUT/Rock%20Paper%20&%20Scissors%20Game%20-%20Google%20Chrome%2028-04-2025%2011_19_45.png?raw=true) |
 
-*(You can upload your screenshots in GitHub and replace `link_to_start_image` and `link_to_play_image`.)*
 
 ---
 
